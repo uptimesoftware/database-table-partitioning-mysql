@@ -7,21 +7,21 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+database
 
 ### Version Compatibility
 
 
   
-    * Database Table Partitioning Mod MySQL 5.1/5.5 4.0 - 5.4, 5.3
+* Database Table Partitioning Mod MySQL 5.1/5.5 4.0 - 5.4, 5.3
   
 
   
-    * Database Table Partitioning Mod MySQL 5.1/5.5 1.5 - 5.5, 5.4, 5.3
+* Database Table Partitioning Mod MySQL 5.1/5.5 1.5 - 5.5, 5.4, 5.3
   
 
   
-    * Database Table Partitioning Mod MySQL 5.1/5.5 1.0 - 5.3
+* Database Table Partitioning Mod MySQL 5.1/5.5 1.0 - 5.3
   
 
 
@@ -46,12 +46,31 @@ None; no agent required
 
 
 ### Input Variables
-* Username; username to be used to connect to the HMC* Password (Windows only); password to be used to connect to the HMC
+
+* Username; username to be used to connect to the HMC
+
+* Password (Windows only); password to be used to connect to the HMC
+
 
 ### Output Variables
 
-* Chassis CPU Utilization (%)* Chassis CPU Utilization (CPU unit)* LPAR CPU Utilization (%)* LPAR CPU Utilization (CPU unit)* Response Time (ms)
+
+* Chassis CPU Utilization (%)
+
+* Chassis CPU Utilization (CPU unit)
+
+* LPAR CPU Utilization (%)
+
+* LPAR CPU Utilization (CPU unit)
+
+* Response Time (ms)
+
 
 ### Languages Used
-* Shell/Batch* PHP* Java
+
+* Shell/Batch
+
+* PHP
+
+* Java
 
