@@ -43,34 +43,3 @@ None; no agent required
 
 ### Dependencies
 <p>MySQL 5.1/5.5</p>
-
-
-### Input Variables
-
-* Username; username to be used to connect to the HMC
-
-* Password (Windows only); password to be used to connect to the HMC
-
-
-### Output Variables
-
-
-* Chassis CPU Utilization (%)
-
-* Chassis CPU Utilization (CPU unit)
-
-* LPAR CPU Utilization (%)
-
-* LPAR CPU Utilization (CPU unit)
-
-* Response Time (ms)
-
-
-### Languages Used
-
-* Shell/Batch
-
-* PHP
-
-* Java
-
